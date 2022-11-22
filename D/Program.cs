@@ -3,7 +3,7 @@
     public class SalaryCalculator
     {
         public float CalculateSalary(int hoursWorked, float hourlyRate) => hoursWorked * hourlyRate;
-    }
+    } 
 
     public class EmployeeDetails
     {
